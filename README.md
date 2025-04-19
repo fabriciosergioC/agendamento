@@ -1,3 +1,19 @@
-<p align="left">Índice<br>Visão Geral<br>Funcionalidades<br>Como Usar<br>Tecnologias Utilizadas<br>Contribuição<br>Licença<br>Visão Geral<br>O Sistema de Agendamento de Serviços é uma aplicação web básica que facilita o processo de agendamento de serviços, como cortes de cabelo, barba, manicure, pedicure, etc. Ele oferece uma interface intuitiva onde os usuários podem selecionar o serviço desejado, a data e o horário, e confirmar o agendamento.<br><br>Funcionalidades<br>Seleção de Serviço : Os usuários podem escolher entre diferentes serviços disponíveis.<br>Seleção de Data : Um campo de data permite que os usuários escolham a data desejada para o agendamento.<br>Seleção de Horário : Um campo de horário permite que os usuários escolham o horário específico para o serviço.<br>Confirmação de Agendamento : Após preencher todos os campos, o usuário pode confirmar o agendamento, recebendo uma mensagem de confirmação.<br>Validação Simples : O formulário verifica se todos os campos estão preenchidos antes de permitir o envio.<br>Como Usar<br>1. Clonar o Repositório</p>
+# Sistema de Agendamento de Serviços
 
-###
+![Preview da Interface](agendamento.png)
+
+Interface simples para agendamento de serviços com seleção de data e horário.
+
+## Funcionalidades Principais
+
+- ✅ Seleção de serviço (dropdown)
+- 📅 Escolha de data (formato dd/mm/aaaa)
+- ⏰ Seleção de horário disponível
+- ✔️ Botão de confirmação
+
+## Como Usar
+
+1. Selecione um serviço na lista suspensa
+2. Escolha a data desejada
+3. Selecione um horário disponível
+4. Clique em "Agendar" para confirmar

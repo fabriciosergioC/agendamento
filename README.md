@@ -10,8 +10,8 @@ Clonar o Repositório
 - [Git instalado](https://git-scm.com/downloads) na sua máquina
 - Conta no GitHub (ou outro serviço de hospedagem)
 - Acesso ao repositório (público ou permissões se for privado)
-- Execute o comando git clone https://github.com/usuario/repositorio.git
-- Abra o arquivo index.html
+- Execute o comando git clone https://github.com/fabriciosergioC/agendamento.git
+- Abra o arquivo no seu computador index.html
 
 ## Funcionalidades Principais
 

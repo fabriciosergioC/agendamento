@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Agendamento</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Agendamento de Serviços</h1>
+    <form id="appointmentForm">
+      <label for="service">Escolha o serviço:</label>
+      <select id="service" name="service" required>
+        <option value="">Selecione um serviço</option>
+        <option value="corte-cabelo">Corte de Cabelo</option>
+        <option value="barba">Barba</option>
+        <option value="manicure">Manicure</option>
+        <option value="pedicure">Pedicure</option>
+      </select>
+
+      <label for="date">Escolha a data:</label>
+      <input type="date" id="date" name="date" required>
+
+      <label for="time">Escolha o horário:</label>
+      <input type="time" id="time" name="time" required>
+
+      <button type="submit">Agendar</button>
+    </form>
+    <div id="confirmationMessage" class="hidden">
+      <p>Agendamento realizado com sucesso!</p>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

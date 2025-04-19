@@ -1,8 +1,16 @@
 # Sistema de Agendamento de Serviços
 
-![Preview da Interface](agendamento.png)
+![Captura de tela do agendamento](imagens/agendamento.png)
 
 Interface simples para agendamento de serviços com seleção de data e horário.
+
+Clonar o Repositório
+
+### Pré-requisitos:
+- [Git instalado](https://git-scm.com/downloads) na sua máquina
+- Conta no GitHub (ou outro serviço de hospedagem)
+- Acesso ao repositório (público ou permissões se for privado)
+- Abra o arquivo index.html
 
 ## Funcionalidades Principais
 
